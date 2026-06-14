@@ -7,28 +7,28 @@ Written in Rust and is <100 lines of code.
 
 A simple 3D cube perspective projected.
 
-![A wireframe cube rotating](docs/3D.gif)
+<video autoplay loop muted playsinline width="400"><source src="docs/3D.mp4" type="video/mp4"></video>
 
 4D Hypercube (Tesseract) Perspective projected
 
-![4D hypercube rotating about all of its axis](docs/4D_pp.gif)
+<video autoplay loop muted playsinline width="400"><source src="docs/4D_pp.mp4" type="video/mp4"></video>
 
 4D Hypercube (Tesseract) Orthographically projected
 
-![4D hypercube rotating about all of its axis](docs/4D_op.gif)
+<video autoplay loop muted playsinline width="400"><source src="docs/4D_op.mp4" type="video/mp4"></video>
 
 5D Hypercube (Penteract) Perspective projected 
 
-![5D hypercube rotating about all of its axis](docs/5D.gif)
+<video autoplay loop muted playsinline width="400"><source src="docs/5D.mp4" type="video/mp4"></video>
 
 6D Hypercube (Hexeract) Perspective projected
 
-![6D hypercube rotating about all of its axis](docs/6D.gif)
+<video autoplay loop muted playsinline width="400"><source src="docs/6D.mp4" type="video/mp4"></video>
 
 And last but not least, just for some fun, a rendering of a 10D Hypercube (in perspective projection).
 
-![4D hypercube rotating about all of its axis](docs/10D.gif)
+<video autoplay loop muted playsinline width="400"><source src="docs/10D.mp4" type="video/mp4"></video>
 
-## Dependencies
+## Dependencies 
 - nannou
 - ndarray

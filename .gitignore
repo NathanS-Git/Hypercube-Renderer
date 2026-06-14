@@ -3,6 +3,8 @@ docs/*.mkv
 *.webm
 *.kra*
 *.txt
+frames/
+/hypercube*.mp4
 
 # Added by cargo
 
