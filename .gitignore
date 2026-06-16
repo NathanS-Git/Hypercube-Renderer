@@ -5,6 +5,7 @@ docs/*.mkv
 *.txt
 frames/
 /hypercube*.mp4
+/hypercube*.avif
 
 # Added by cargo
 
